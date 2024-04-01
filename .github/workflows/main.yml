@@ -9,5 +9,5 @@ jobs:
     - name: CycloneDX Node.js Generate SBOM
       uses: CycloneDX/gh-node-module-generatebom@v1.0.3
       with:
-        path: ./
+        path: ../../
         output: ./bom.xml
