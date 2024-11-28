@@ -1,4 +1,4 @@
-name: SBOM
+name: SBOM rename
 on: workflow_dispatch
 
 jobs:
