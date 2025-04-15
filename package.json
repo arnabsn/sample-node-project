@@ -8,4 +8,7 @@
   },
   "author": "Adem Cemil YALCIN",
   "license": "ISC"
+  "dependencies": {
+    "bootstrap": "3.3.7"
+  }
 }
